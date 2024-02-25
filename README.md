@@ -14,7 +14,7 @@ Run the following command to get your deployment key
 
 `solana-keygen pubkey ./target/deploy/hello_pyth-keypair.json`
 
-Replace the system program jey `111...111` with the key you get in /programs/hello-pyth/lib.rs (declareid section)
+Replace the system program key `111...111` with the key you get, in /programs/hello-pyth/lib.rs (declareid section)
 and anchor.toml 
 
 Following that run 
