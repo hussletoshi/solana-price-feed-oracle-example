@@ -10,7 +10,7 @@ and
 
 `npm i`
 
-Following run the following to get your deployment key 
+Run the following to get your deployment key 
 
 `solana-keygen pubkey ./target/deploy/hello_pyth-keypair.json`
 
